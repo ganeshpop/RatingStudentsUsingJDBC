@@ -1,4 +1,6 @@
-package persistence;
+package persistence.distribution;
+
+import persistence.MySQLConnectionHelper;
 
 import java.io.IOException;
 import java.sql.Connection;

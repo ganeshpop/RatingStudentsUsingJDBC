@@ -1,7 +1,7 @@
 package service;
 
 import persistence.assignment.AssignmentDao;
-import persistence.DistributionsDao;
+import persistence.distribution.DistributionsDao;
 import pojos.*;
 
 import java.io.IOException;
